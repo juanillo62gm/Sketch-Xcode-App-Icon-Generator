@@ -25,6 +25,11 @@ Generate all app icons for iOS, macOS, and watchOS using the Sketch app and impo
 
 ## Exports
 
+### Theos
+<p align="center">
+  <img src="/Assets/TheosExport.png" alt="Export theos assets">
+</p>
+
 ### iOS
 <p align="center">
   <img src="/Assets/iOS.png" alt="iOS assets">
